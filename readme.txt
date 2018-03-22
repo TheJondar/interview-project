@@ -5,7 +5,6 @@ Technology
 •	NodeJS Express Framework (Node version 5.7.1)
 •	CoffeeScript (http://coffeescript.org/)
 •	MongoDB (version 3.2)
-•	JQuery and AJAX (no AngularJS or React JS please)
 •	Jade using CSS Bootstrap (https://getbootstrap.com/docs/3.3/css/)
 •	Hunter Email Count API (https://hunter.io/api/docs#email-count)
 •	Authentication using npm passport-local
