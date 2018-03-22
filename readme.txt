@@ -29,3 +29,6 @@ Project Requirements
 •	View Search Results
 	o	Display domains, total, personal and generic email counts for each domain of the search
 •	Logout 
+
+Host Solution
+•	If possible, please provide a URL to a working demo of the solution with login information for review when completed 
