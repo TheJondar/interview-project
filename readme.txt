@@ -1,6 +1,7 @@
 Developer Interview Project
 
 Technology
+•	GitHub - please fork this repo and clone to keep your own personal copy for review
 •	NodeJS Express Framework (Node version 5.7.1)
 •	CoffeeScript (http://coffeescript.org/)
 •	MongoDB (version 3.2)
