@@ -1,0 +1,18 @@
+doctype html
+html(lang="en")
+  head
+    title= pageTitle
+    link(href='static/css/styles.css', type='text/css', rel='stylesheet')
+    script(src='static/javascripts/app.js')
+
+  body
+    #container.header
+      h1 Pug - node template engine
+    #container.col
+      if youAreUsingPug
+        p You are amazing
+      else
+        p Get on it!
+      p.
+        Pug is a terse and simple templating language with a
+        strong focus on performance and powerful features.
