@@ -10,4 +10,7 @@
 * https://expressjs.com/en/guide/using-template-engines.html
 * https://expressjs.com/en/starter/static-files.html
 * https://goo.gl/MZDzX2
-* 
+* http://www.passportjs.org/docs/
+* https://github.com/senchalabs/connect#middleware
+* https://www.npmjs.com/package/express-session
+* https://github.com/expressjs/session#options
